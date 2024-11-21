@@ -1,12 +1,26 @@
-# MNMC
+# MNMC Website
 
-Este projeto teve como principal finalidade a aplicação prática de conhecimentos e competências sobre tecnologias necessárias para o desenvolvimento de websites.
+The main objective of this project was the practical application of knowledge and skills related to the technologies necessary for website development.
 
-Uma das características deste projeto é ser um website institucional e escolhemos um museu, mais especificamente o Museu Nacional de Machado de Castro. Decidimos que seria interessante criar um website para este tipo de instituição e ao fazermos o trabalho de pesquisa, constatamos que havia algumas falhas no website do Museu Nacional de Machado de Castro podendo ser melhorado visualmente e em termos de clareza, tornando-o mais simples e intuitivo. De facto, as informações mais relevantes de um museu são a sua localização, a história e missão do mesmo, as suas coleções, exposições, o preçário, horário de funcionamento e a possibilidade de o utilizador se comunicar com os trabalhadores do museu, e por isso, estes serão os elementos de maior destaque.
+One of the features of this project is that it is an institutional website, and we chose a museum—specifically, the Museu Nacional de Machado de Castro. We decided it would be interesting to create a website for this type of institution, and during our research, we identified some shortcomings in the current website of the Museu Nacional de Machado de Castro that could be improved visually and in terms of clarity, making it simpler and more intuitive.
 
+In fact, the most relevant information for a museum includes its location, history and mission, collections, exhibitions, pricing, opening hours, and the ability for users to communicate with museum staff. Therefore, these will be the key elements highlighted on the website.
 
-Trabalho realizado no âmbito da unidade curricular Tecnologias da Internet
-Sob orientação dos docentes João Cunha e Jorge Cardoso
-Licenciatura em Design e Multimédia (Universidade de Coimbra)
+### Context
 
-*Dezembro de 2020*
+This project was developed in the context of the Internet Technology course of the bachelor’s degree in [Design and Multimedia](https://dm.dei.uc.pt/en/about/) of the [Faculty of Sciences and Technology of the University of Coimbra](https://www.uc.pt/fctuc/). 
+
+### Technologies used
+
+The main languages used in the development of this project were HTML, CSS and Javascript.
+
+### License
+
+This project is licensed under the `MIT License` - see the [LICENSE](LICENSE) file for details.
+
+### Contributors
+
+- [Carlos Alves](https://github.com/carlosjalves) - design and development
+- Beatriz Martinez - design and development
+- [Jorge Cardoso](https://www.cisuc.uc.pt/en/people/jorgecardoso) - supervision
+- [João M. Cunha](https://cdv.dei.uc.pt/people/joao-cunha) - supervision
